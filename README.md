@@ -4,7 +4,8 @@
 
 <h3>I'm Parthiv!</h3>
 
-Currently Exploring with Web technologies in Web2 and Web3.
+Currently Exploring with Web technologies and 
+learning open source contributions.
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parthiv011&label=Profile%20views&color=0e75b6&style=flat" alt="parthiv011" /> </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
