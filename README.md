@@ -21,3 +21,4 @@ learning open source contributions.
 <h3 align="left">My stats : </h3>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=parthiv011&show_icons=true&locale=en" alt="parthiv011" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=parthiv011&show_icons=true&locale=en&layout=compact" alt="parthiv011" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=parthiv011&" alt="parthiv011" /></p>
