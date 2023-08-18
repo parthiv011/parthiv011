@@ -10,7 +10,7 @@ learning open source contributions.
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parthiv011&label=Profile%20views&color=0e75b6&style=flat" alt="parthiv011" /> </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/@parthiv2111" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@parthiv2111" height="30" width="40" /></a>
+<a href="https://twitter.com/@Parthiv_21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@parthiv2111" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/parthiv parmar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="parthiv parmar" height="30" width="40" /></a>
 <a href="https://medium.com/@parmarparthiv77" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@parmarparthiv77" height="30" width="40" /></a>
 </p>
