@@ -1,23 +1,7 @@
-![InShot_20230809_230837929](https://github.com/parthiv011/HarmonyVerse/assets/118474748/acb8f1e1-2655-45a9-913f-a3bfa4c0fc6b)
-
-
-### Hi👋
-
-<h3>I'm Parthiv!</h3>
+### Hi👋, I'm Parthiv!
 
 Currently Exploring with Web technologies and 
 learning open source contributions.
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/@Parthiv_21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@parthiv2111" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/parthiv parmar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="parthiv parmar" height="30" width="40" /></a>
-<a href="https://medium.com/@parmarparthiv77" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@parmarparthiv77" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
 
 <h3 align="left">Languages</h3>
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
@@ -53,3 +37,11 @@ learning open source contributions.
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=parthiv011&show_icons=true&locale=en" alt="parthiv011" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=parthiv011&show_icons=true&locale=en&layout=compact" alt="parthiv011" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=parthiv011&" alt="parthiv011" /></p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/@Parthiv_21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@parthiv2111" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/parthiv parmar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="parthiv parmar" height="30" width="40" /></a>
+<a href="https://medium.com/@parmarparthiv77" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@parmarparthiv77" height="30" width="40" /></a>
+</p>
+
