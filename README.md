@@ -13,6 +13,8 @@
   </a>
 </p>
 
-![parthiv011's Stats](https://github-readme-stats.vercel.app/api?username=parthiv011&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=parthiv011&show_icons=true&theme=dark)
+<!-- ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=parthiv011&theme=dark) -->
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=parthiv011&layout=compact&theme=dark)
 
-![parthiv011's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=parthiv011&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+<!--![parthiv011's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=parthiv011&theme=vue-dark&show_icons=true&hide_border=true&layout=compact) -->
